@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Trick ＆ Cute (104期Ver.)",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2025-12-14T07:27:34.611615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trick",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_Trick_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trick Me",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/02_Trick_Me_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trick Bag",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/03_Trick_Bag_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hopeless (feat. Trick Daddy)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/04_Hopeless_(feat._Trick_Daddy)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trick Me (Mac & Toolz Extended Remix)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/05_Trick_Me_(Mac_&_Toolz_Extended_Remix)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trick Me ( Mac & Toolz Extended)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/06_Trick_Me_(_Mac_&_Toolz_Extended)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trick Me (E Smoove House Trick)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/07_Trick_Me_(E_Smoove_House_Trick)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trick Me (E Smoove House Trick",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/08_Trick_Me_(E_Smoove_House_Trick_Kelis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Trick Is to Keep Breathing (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/09_The_Trick_Is_to_Keep_Breathing_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Trick Is To Keep Breathing",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/10_The_Trick_Is_To_Keep_Breathing_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trick or Treatz",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/11_Trick_or_Treatz_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Trick for Treat",
+      "artist": "Neon Neon feat. Har Mar Superstar & Spank Rock",
+      "has_synced": true,
+      "path": "select/12_Trick_for_Treat_Neon_Neon_feat._Har_Mar_Superstar_&_Spank_Rock.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Trick For Treat",
+      "artist": "Neon Neon",
+      "has_synced": true,
+      "path": "select/13_Trick_For_Treat_Neon_Neon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Trick of the Night",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/14_A_Trick_of_the_Night_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Trick Of The Night - Single Version",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/15_A_Trick_Of_The_Night_-_Single_Version_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Trick Of The Night (Single Version)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/16_A_Trick_Of_The_Night_(Single_Version)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Trick of the Night (The Number One Mix)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/17_A_Trick_of_the_Night_(The_Number_One_Mix)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Confidence Trick",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/18_Confidence_Trick_Culture_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trick & Cute",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_Trick_&_Cute_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
